@@ -1,24 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+this file was created on 28/7/2020
 
 ### Project Title
-Replace the Project Title
+udacity git project
 
 ### Description
-Describe what your project is about and what it does
-
+this project is to familiarise the user with git and git hub.
 ### Files used
-Include the files used
+''files used are bikeshare.py , chicago.csv , new_york_city.csv and washington.csv''
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-
-'branching stage'
-'third commit'
-
-
-
-
-editing in third branch
-last project
